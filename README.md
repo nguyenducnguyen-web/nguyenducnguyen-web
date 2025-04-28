@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hello! I'm Nguyễn Đức Nguyên</h1>
+<h1 align="center">👋 Hello! I am Nguyễn Đức Nguyên</h1>
 
 ## 👤 About me
-- 🎓 I’m currently a third-year **MIS (Management Information Systems)** student at **The University of Finance and Marketing (UFM)**.
-- 👀 I’m a passionate individual actively seeking internship or job opportunities in web development and programming.
+- 🎓 I am currently a third-year **MIS (Management Information Systems)** student at **the University of Finance and Marketing (UFM)**.
+- 👀 I am a passionate individual actively seeking internship or job opportunities in web development and programming.
 - 🤗 My work attitude is **proactive**, **adaptable** and **professional**.
 - 🌱 My primary programming languages are **C#**, **HTML** and **CSS**.
 - 📄 My Portfolio: [Click here](https://acus-website.vercel.app/docs/cv.pdf)
