@@ -38,6 +38,9 @@
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
+![ASP.NET Badge](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=fff&style=flat)
+![Java Badge](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=flat)
+![Apache NetBeans Badge](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?logo=apache%20netbeans&logoColor=fff&style=flat)
 
 ## 🔥 My Stats
 
