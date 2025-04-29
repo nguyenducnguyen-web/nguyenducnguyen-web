@@ -39,10 +39,13 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
 
-## 🔥 My stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenducnguyen-web&layout=compact&theme=dark)
+## 🔥 My Stats
 
-![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenducnguyen-web&show_icons=true&theme=dark)
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenducnguyen-web&layout=compact&theme=dark&hide_border=false&card_width=400)
+
+### GitHub Stats
+![Nguyen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenducnguyen-web&show_icons=true&theme=dark&hide_border=false&card_width=400)
 
 [![Followers Badge](https://img.shields.io/github/followers/nguyenducnguyen-web?style=for-the-badge&logo=github&color=blue&logoColor=black)](https://github.com/nguyenducnguyen-web)
 [![Stars Badge](https://img.shields.io/github/stars/nguyenducnguyen-web?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&logo=github&color=red&logoColor=black&style=for-the-badge)](https://github.com/nguyenducnguyen-web)
