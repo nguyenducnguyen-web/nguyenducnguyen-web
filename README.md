@@ -42,7 +42,7 @@
 ## 🔥 My stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenducnguyen-web&layout=compact&theme=dark)
 
-![Phuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenducnguyen-web&show_icons=true&theme=dark)
+![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenducnguyen-web&show_icons=true&theme=dark)
 
 [![Followers Badge](https://img.shields.io/github/followers/nguyenducnguyen-web?style=for-the-badge&logo=github&color=blue&logoColor=black)](https://github.com/nguyenducnguyen-web)
 [![Stars Badge](https://img.shields.io/github/stars/nguyenducnguyen-web?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&logo=github&color=red&logoColor=black&style=for-the-badge)](https://github.com/nguyenducnguyen-web)
