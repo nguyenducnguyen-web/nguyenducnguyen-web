@@ -4,7 +4,7 @@
 - 🎓 I am currently a third-year **MIS (Management Information Systems)** student at **the University of Finance and Marketing (UFM)**.
 - 👀 I am a passionate individual actively seeking internship or job opportunities in web development and programming.
 - 🤗 My work attitude is **proactive**, **adaptable** and **professional**.
-- 🌱 My primary programming languages are **C#**, **HTML** and **CSS**.
+- 🌱 My primary programming languages are **C#**, **JavaScript**, **Java** and **Kotlin**.
 - 📄 My curriculum vitae: [Click here](https://drive.google.com/file/d/160kxW9qNzrC1pasi-Mn9DnCzLx34bCFU/view?usp=share_link)
 ## 📫 How to reach me
 
