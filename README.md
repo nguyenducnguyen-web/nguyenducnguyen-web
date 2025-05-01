@@ -9,6 +9,9 @@
 ## 📫 How to reach me
 
 <div id="badges" align="center" style="margin: 3px">
+  <a style="margin: 1px" href="https://nguyenducnguyen-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a style="margin: 1px" href="https://www.linkedin.com/in/ducnguyen212004">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
