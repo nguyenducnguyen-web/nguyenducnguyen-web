@@ -5,11 +5,11 @@
 - 👀 I am a passionate individual actively seeking internship or job opportunities in web development and programming.
 - 🤗 My work attitude is **proactive**, **adaptable** and **professional**.
 - 🌱 My primary programming languages are **C#**, **JavaScript**, **Java** and **Kotlin**.
-- 📄 My curriculum vitae: [Click here](https://drive.google.com/file/d/160kxW9qNzrC1pasi-Mn9DnCzLx34bCFU/view?usp=share_link)
+- 📄 My curriculum vitae: [Click here](https://drive.google.com/file/d/1OGM6Q-1zdT4j8kD-1klWM5rtgq--fWsl/view)
 ## 📫 How to reach me
 
 <div id="badges" align="center" style="margin: 3px">
-  <a style="margin: 1px" href="https://nguyenducnguyen-portfolio.vercel.app">
+  <a style="margin: 1px" href="https://myportfolio-dun-mu.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a style="margin: 1px" href="https://www.linkedin.com/in/ducnguyen212004">
